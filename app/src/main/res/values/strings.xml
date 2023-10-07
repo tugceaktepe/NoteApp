@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">NoteApp</string>
+    <string name="add_note_description">Click the + button at the bottom to add a note. </string>
+    <string name="title_hint"> Title </string>
+    <string name="content_hint"> Content </string>
+    <string name="image_url_hint"> Image Url </string>
+    <string name="add_note_button"> Add Note </string>
+    <string name="note_add_success_msg"> Your note added successfully! </string>
+    <string name="edited">(Edited)</string>
+    <string name="update_note_button"> Update Note </string>
+    <string name="note_update_success_msg"> Your note updated successfully! </string>
+    <string name="delete_yes">Yes</string>
+    <string name="delete_no">No</string>
+    <string name="delete_question"> Do you want to delete your note? </string>
+    <string name="note_delete_success_msg"> Your note deleted successfully! </string>
+</resources>
